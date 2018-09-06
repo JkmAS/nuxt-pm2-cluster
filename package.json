@@ -1,0 +1,10 @@
+{
+  "name": "example-hello-world",
+  "dependencies": {
+    "nuxt-edge": "^2.0.0-25599455.3a0f094"
+  },
+  "scripts": {
+    "build": "nuxt build",
+    "start": "pm2-runtime pm2.config.js"
+  }
+}
